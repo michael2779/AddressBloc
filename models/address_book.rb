@@ -81,4 +81,8 @@ class AddressBook
 
    end
 
+   def see_ya_bitches
+     @entries = []
+   end
+
 end
